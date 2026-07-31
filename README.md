@@ -1,33 +1,47 @@
 # Hi 👋, I'm Phạm Huỳnh Anh Thư
 
-### Backend Developer focused on clean code & scalable web applications.
+> **Backend Developer** focused on clean code, system architecture & scalable web applications.
 
-- 🔭 I'm currently working on **exploring event-driven payment architectures and database change-driven caching.**
+---
 
-- 🌱 I'm currently learning **System Architecture, Cloud Infrastructure & Performance Optimization**
+### 📌 About Me
 
-- 👯 I'm looking to collaborate on **Open-source developer tools & innovative web platforms**
+- 🔭 **Currently working on:** Exploring event-driven payment architectures and database change-driven caching.
+- 🌱 **Currently learning:** System Architecture, Cloud Infrastructure & Performance Optimization.
+- 👯 **Looking to collaborate on:** Open-source developer tools & innovative web platforms.
+- 💬 **Ask me about:** Java, NestJS, Next.js, PostgreSQL, MySQL.
+- ⚡ **Fun fact:** I loop logic in code and loop yarn in real life — passionate about building software and handcrafted crochet art 🧶
+- 📄 **Resume / Experience:** [View My CV](https://drive.google.com/file/d/1AltHrTmxx8ZhhUtJLd_pNayJAtkBs8l3/view?usp=sharing)
 
-- 🤝 I'm looking for help with **Advanced System Design**
+---
 
-- 💬 Ask me about **Java, NestJS, Next.js, PostgreSQL, MySQL.**
+### 🛠️ Languages & Tools
 
-- 📫 How to reach me **phamhuynhanhthu035@gmail.com**
-
-- ⚡ Fun fact **I loop logic in code and loop yarn in real life — passionate about building software and handcrafted crochet art**
-
-- 📄 Know about my experiences **[https://drive.google.com/file/d/1AltHrTmxx8ZhhUtJLd_pNayJAtkBs8l3/view?usp=sharing](https://drive.google.com/file/d/1AltHrTmxx8ZhhUtJLd_pNayJAtkBs8l3/view?usp=sharing)**
-
-<h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://github.com/cevvian" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="cevvian" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/phat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="phat" height="30" width="40" /></a>
+  <img src="https://skillicons.dev/icons?i=java,spring,nestjs,ts,js,postgres,mysql,mongodb,docker,react,next,tailwind,css" alt="Tech Stack" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/css3" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=css" alt="css3" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/docker" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=docker" alt="docker" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/html5" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=html" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/java" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=java" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/javascript" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=js" alt="javascript" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/mongodb" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=mongodb" alt="mongodb" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/mysql" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=mysql" alt="mysql" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/nestjs" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=nestjs" alt="nestjs" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/postgresql" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=postgres" alt="postgresql" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/react" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=react" alt="react" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/spring" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=spring" alt="spring" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/tailwind" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=tailwind" alt="tailwind" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/typescript" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=ts" alt="typescript" width="40" height="40"/> </a></p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=cevvian&show_icons=true&locale=en&layout=compact" alt="cevvian" /></p>
+### 📊 GitHub Statistics
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=cevvian&show_icons=true&locale=en" alt="cevvian" /></p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=cevvian&show_icons=true&theme=dark&hide_border=true&count_private=true" width="48%" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cevvian&layout=compact&theme=dark&hide_border=true" width="45%" alt="Top Languages" />
+</p>
 
+---
+
+### 📫 Connect with Me
+
+<p align="left">
+  <a href="mailto:phamhuynhanhthu035@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://linkedin.com/in/phat" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/cevvian" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+</p>
