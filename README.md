@@ -1,4 +1,4 @@
-# Hi, I'm [Tên của bạn] 👋
+# Hi, I'm Thu 👋
 
 > Full-stack Software Engineer focused on building clean, scalable applications and modern software architecture.
 
@@ -6,7 +6,7 @@
 
 ### 📌 About Me
 
-- 💻 **Core Stack:** TypeScript, Next.js, NestJS, PostgreSQL & Docker
+- 💻 **Core Stack:** TypeScript, Java, Spring Boot, NestJS, MySQL, PostgreSQL & Docker
 - 🎯 **Focus:** System Architecture, Clean Code & Performance Optimization
 - 🛠️ **Current Goal:** Deep diving into modern web ecosystems and AI integration
 
